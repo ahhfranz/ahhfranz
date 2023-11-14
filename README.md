@@ -60,6 +60,3 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/ahhfranz/ahhfranz/output/snake.svg" alt="Snake animation" />
-
-###
