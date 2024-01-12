@@ -6,6 +6,10 @@
 
 ###
 
+<p align="left">• Also, I am the Co-Founder of NEO Digital, an international Digital Marketing agency based in Argentina. </p>
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
