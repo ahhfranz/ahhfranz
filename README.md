@@ -3,7 +3,6 @@
 ###
 
 <p align="left">• You can usually find me making mods and contributions on Nexus Mods and Thunderstore.<br>• Some of my work includes being part of the development team for Thrive, Notmads and Resident Evil 4 HD Project.</p>
-
 <p align="left">• Also, I am the Co-Founder of NEO Digital, an international Digital Marketing agency based in Argentina. </p>
 
 ###
