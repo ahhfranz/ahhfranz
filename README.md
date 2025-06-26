@@ -56,7 +56,9 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=franz.dev&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <a href="https://discord.com/users/640310157796179978" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=franz.dev&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
+  </a>
 </div>
 
 ###
