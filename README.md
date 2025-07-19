@@ -1,10 +1,4 @@
-<h2 align="left">Hey there! 👋 i'm a fullstack dev. from Argentina.</h2>
-
-###
-
-<p align="left">• You can usually find me making mods and contributions on Nexus Mods and Thunderstore.<br>• Some of my work includes being part of the development team for Thrive, Notmads and Resident Evil 4 HD Project.</p>
-
-###
+<h2 align="left">Hey there! 👋 i'm a fullstack dev. JR from Argentina.</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
